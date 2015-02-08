@@ -1,0 +1,32 @@
+Algebra basics
+    Foundations
+        negative numbers
+        absolute value
+        world of exponents
+        square root     
+        order of operations
+        fractions
+        decimals, fractions and percentages
+        operations with decimals
+        scientific notation
+        computing with scientific notation
+        perimeter and area of triangles
+        circumference and area of circles
+    Algebraic expressions
+        Variables and Expressions
+        Manipulating expressions
+        Algebraic expression with fractions
+    Linear equations and inequalities
+        Solving basic equations
+        Linear equations word problems
+        Solving fancier linear equations
+        Linear inequalities
+        Ratios and proprotions
+        Direct and inverse variation
+    Graphing lines and slope
+        
+    Systems of equations
+    Expressions and equations with exponents
+    Quadratics and polynomials
+    Equations and geometry
+    
